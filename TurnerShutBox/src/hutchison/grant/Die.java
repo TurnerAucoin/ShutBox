@@ -2,6 +2,12 @@ package hutchison.grant;
 
 import java.util.Random;
 
+/**
+ * Purpose: Creates The 6 Sided Dice Used For The Shut The Box Game
+ * @author Turner Aucoin
+ * @date December 20th, 2024
+ */
+
 public class Die {
 	private int value;
 	private int numSides;

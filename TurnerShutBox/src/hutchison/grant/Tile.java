@@ -1,5 +1,11 @@
 package hutchison.grant;
 
+/**
+ * Purpose: Code For Checking And Showing The Tiles Are Down Or Up
+ * @author Turner Aucoin
+ * @date December 20th, 2024
+ */
+
 public class Tile {
 	private int value;
 	private boolean isUp;
